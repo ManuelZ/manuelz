@@ -1,6 +1,6 @@
 ### Hi, my name is Manuel
 
-**Field of interests**: Computer Vision, Mechatronics
+**Field of interests**: Computer Vision, Mechatronics, Multibody Dynamics Simulation
 
 ### Skills 🛠️
 - **Languages**: &emsp; Python, JavaScript, C++
