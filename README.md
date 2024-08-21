@@ -8,7 +8,7 @@
 - **DevOps**: &nbsp;&emsp;&emsp; Linux, Git, Docker
 
 
-### Projects
+### Computer vision projects
 
 - [TV Automation](https://github.com/ManuelZ/tv_automation)
 - [Document scanner simulation](https://github.com/ManuelZ/document_scanner_simulation)
