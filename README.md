@@ -16,7 +16,7 @@
 
 - [Document scanner simulation](https://github.com/ManuelZ/document_scanner_simulation)
 
-    A document scanner application that converts images of rectangular documents into a top-down view with classical computer vision, tested in a robotics simulator .
+    A document scanner application that converts images of rectangular documents into a top-down view with classical computer vision, tested in a robotics simulator.
 
 - [Semantic segmentation](https://github.com/ManuelZ/DLPT-semantic-segmentation)
 
