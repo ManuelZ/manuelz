@@ -4,7 +4,7 @@
 
 ### Skills
 - **Languages**: &emsp; Python, JavaScript, C++
-- **ML/DL**: &ensp;&nbsp;&emsp;&emsp; OpenCV, PyTorch/Lightning, Tensorflow/Keras, Scikit-learn
+- **ML/DL**: &ensp;&nbsp;&emsp;&emsp; OpenCV, PyTorch, PT Lightning, Keras(Tensorflow), Scikit-learn
 - **DevOps**: &nbsp;&emsp;&emsp; Linux, Git, Docker
 
 
