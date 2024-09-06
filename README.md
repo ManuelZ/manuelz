@@ -18,6 +18,9 @@
 
     A document scanner application that converts images of rectangular documents into a top-down view with classical computer vision, tested in a robotics simulator.
 
+- [30K cards recognition system](https://github.com/ManuelZ/pairwise-similarity)
+-  Card recognition system that matches a query card to a 30K card database using fine-tuned deep feature embeddings and similarity search. 
+
 - [Semantic segmentation](https://github.com/ManuelZ/DLPT-semantic-segmentation)
 
     Semantic segmentation on images taken from drones to differentiate between 12 classes.
