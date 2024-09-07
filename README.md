@@ -1,12 +1,12 @@
 ### Hi, my name is Manuel
 
-**Fields of interest**: Computer Vision, Mechatronics, Multibody Dynamics Simulation
+**Fields of interest**: Computer Vision, Mechatronics and Robotics, Multibody Dynamics Simulation
 
 ### Skills
 - **Languages**: &emsp; Python, JavaScript, C++
 - **ML/DL**: &ensp;&nbsp;&emsp;&emsp; OpenCV, PyTorch, PT Lightning, Keras(Tensorflow), Scikit-learn
 - **DevOps**: &nbsp;&emsp;&emsp; Linux, Git, Docker
-
+- **Robotics**: Webots simulator
 
 ### Computer vision projects
 
