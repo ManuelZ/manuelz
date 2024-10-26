@@ -10,7 +10,7 @@
 
 ### Computer vision projects
 
-- [TV Automation](https://github.com/ManuelZ/tv_automation)
+- [TV remote Automation](https://github.com/ManuelZ/tv_automation)
 
     Automation of TV remote controls to assist older adults with button visibility and navigation.
 
