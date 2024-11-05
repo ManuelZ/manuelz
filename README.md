@@ -52,4 +52,3 @@
 
     Image classification of 13 different Kenyan food types.
 
-  ---
