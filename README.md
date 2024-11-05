@@ -7,6 +7,7 @@
 - **ML/DL**: &ensp;&nbsp;&emsp;&emsp; OpenCV, PyTorch, PT Lightning, Keras (Tensorflow), Scikit-learn
 - **DevOps**: &nbsp;&emsp;&emsp; Linux, Git, Docker
 - **Robotics**: &emsp;&emsp; Webots simulator, Exudyn dynamics simulator
+- CAD: Solid Edge, Inventor, Alibre
 
 ## Computer vision projects
 
