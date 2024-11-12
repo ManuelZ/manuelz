@@ -5,7 +5,7 @@
 ## Skills
 - **Languages**: &emsp; Python, JavaScript, C++
 - **ML/DL**: &ensp;&nbsp;&emsp;&emsp; OpenCV, PyTorch, Tensorflow, Lightning, Keras, Scikit-learn
-- **DevOps**: &nbsp;&emsp;&emsp; Linux, Git, Docker
+- **DevOps**: &nbsp;&emsp;&emsp; Linux, Docker, Pytest, MyPy, Git
 - **Cloud**: &nbsp;&emsp;&emsp;&emsp; AWS, Azure
 - **Robotics**: &emsp;&emsp; ROS2, Webots simulator, Exudyn dynamics simulator
 - **CAD**: &emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; Solid Edge, Inventor, Alibre
