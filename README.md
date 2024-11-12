@@ -6,7 +6,7 @@
 - **Languages**: &emsp; Python, JavaScript, C++
 - **ML/DL**: &ensp;&nbsp;&emsp;&emsp; OpenCV, PyTorch, Tensorflow, Lightning, Keras, Scikit-learn
 - **DevOps**: &nbsp;&emsp;&emsp; Linux, Git, Docker
-- **Robotics**: &emsp;&emsp; Webots simulator, Exudyn dynamics simulator
+- **Robotics**: &emsp;&emsp; ROS2, Webots simulator, Exudyn dynamics simulator
 - **CAD**: &emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; Solid Edge, Inventor, Alibre
 
 
