@@ -3,12 +3,15 @@
 **Fields of interest**: Computer Vision, Mechatronics and Robotics, Multibody Dynamics Simulation
 
 ## Skills
-- **Languages**: &emsp; Python, JavaScript, C++
-- **ML/DL**: &ensp;&nbsp;&emsp;&emsp; OpenCV, PyTorch, Tensorflow, Lightning, Keras, Scikit-learn
-- **DevOps**: &nbsp;&emsp;&emsp; Linux, Docker, Pytest, MyPy, Git
-- **Cloud**: &nbsp;&emsp;&emsp;&emsp; AWS, Azure
-- **Robotics**: &emsp;&emsp; ROS2, Webots simulator, Exudyn dynamics simulator
-- **CAD**: &emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; Solid Edge, Inventor, Alibre
+| Category   | Skills                                      |
+|------------|---------------------------------------------|
+| **Languages**       | Python, C++, JavaScript                 |
+| **Computer Vision** | OpenCV, Mediapipe, Diffusers            |
+| **ML/DL**           | PyTorch, Tensorflow, Lightning, Keras, Scikit-learn |
+| **Robotics**        | ROS2, Webots simulator, Exudyn dynamics simulator |
+| **CAD**             | Solid Edge, Inventor, Alibre            |
+| **Dev**             | Linux, Docker, Pytest, MyPy, Git        |
+| **Cloud**           | AWS, Azure                              |
 
 
 ## Computer vision projects
