@@ -6,9 +6,9 @@
 | Category   | Skills                                      |
 |------------|---------------------------------------------|
 | **Languages**       | Python, C++, JavaScript                 |
-| **Computer Vision** | OpenCV, Mediapipe, Diffusers            |
-| **ML/DL**           | PyTorch, Tensorflow, Lightning, Keras, Scikit-learn |
-| **Robotics**        | ROS2, Webots simulator, Exudyn dynamics simulator |
+| **Computer Vision** | OpenCV        |
+| **ML/DL**           | PyTorch, Tensorflow, Keras, Scikit-learn |
+| **Robotics**        | ROS2, Webots Robot Simulator, Exudyn Multibody Dynamics Simulator |
 | **CAD**             | Solid Edge, Inventor, Alibre            |
 | **Dev**             | Linux, Docker, Pytest, MyPy, Git        |
 | **Cloud**           | AWS, Azure                              |
