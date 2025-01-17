@@ -7,7 +7,7 @@
 |------------|---------------------------------------------|
 | **Languages**       | Python, C++, JavaScript                 |
 | **Computer Vision** | OpenCV        |
-| **ML/DL**           | PyTorch, Tensorflow, Keras, Scikit-learn |
+| **ML/DL**           | PyTorch, TensorFlow, Keras, Scikit-learn |
 | **Robotics**        | ROS2, Webots Robot Simulator, Exudyn Multibody Dynamics Simulator |
 | **CAD**             | Solid Edge, Inventor, Alibre            |
 | **Dev**             | Linux, Docker, Pytest, MyPy, Git        |
