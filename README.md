@@ -2,6 +2,12 @@
 
 **Fields of interest**: Computer Vision, Mechatronics and Robotics, Multibody Dynamics Simulation
 
+Currently working on:
+- Implementing the Deep SORT tracker. I have already implemented SORT.
+- Monocular Visual Odometry, Epipolar geometry.
+- Unscented Kalman Filter. I have already implemented a Kalman Filter.
+
+
 ## Skills
 | Category   | Skills                                      |
 |------------|---------------------------------------------|
