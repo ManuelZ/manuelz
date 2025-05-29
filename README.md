@@ -38,9 +38,9 @@ Currently working on:
 
   ---
 
-- [30K cards identification system](https://github.com/ManuelZ/pairwise-similarity)
+- [106K cards identification system](https://github.com/ManuelZ/cards-identification)
 
-    Card identification system that matches a query card to a 30K card database using fine-tuned deep feature embeddings and similarity search.
+    Card identification system that matches a query card to a 106K card database using fine-tuned deep feature embeddings and similarity search.
 
     <img src="https://github.com/user-attachments/assets/0de32173-4b63-445c-84b1-8429890a1f60" width="400"/>
 
