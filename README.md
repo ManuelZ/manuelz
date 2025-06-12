@@ -5,16 +5,14 @@
 Currently working on:
 - Implementing the Deep SORT tracker. I have already implemented SORT.
 - Monocular Visual Odometry, Epipolar geometry.
-- Unscented Kalman Filter. I have already implemented a Kalman Filter.
 
 
 ## Skills
 | Category   | Skills                                      |
 |------------|---------------------------------------------|
 | **Languages**       | Python, C++, JavaScript                 |
-| **Computer Vision** | OpenCV        |
-| **ML/DL**           | PyTorch, TensorFlow, Keras, Scikit-learn |
-| **Robotics**        | ROS2, Webots Robot Simulator, Exudyn Multibody Dynamics Simulator |
+| **Computer Vision** | OpenCV, PyTorch, TensorFlow             |
+| **Robotics**        | ROS2, Webots, Exudyn                    |
 | **CAD**             | Solid Edge, Inventor, Alibre            |
 | **Dev**             | Linux, Docker, Pytest, MyPy, Git        |
 | **Cloud**           | AWS, Azure                              |
