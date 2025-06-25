@@ -24,6 +24,11 @@ Currently working on:
 
     Python implementation of the SORT tracking algorithm.
 
+
+- [Kalman Filter](https://github.com/ManuelZ/Kalman-Filter)
+
+    Python implementation of a Kalman Filter.
+
 - [TV remote Automation](https://github.com/ManuelZ/tv_automation)
 
     Automation of TV remote controls to assist older adults with button visibility and navigation.
