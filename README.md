@@ -21,6 +21,7 @@ Currently working on:
 ## Computer vision projects
 
 - [SORT Tracker](https://github.com/ManuelZ/sort-tracker)
+
     Python implementation of the SORT tracking algorithm.
 
 - [TV remote Automation](https://github.com/ManuelZ/tv_automation)
