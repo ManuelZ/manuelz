@@ -3,7 +3,7 @@
 **Fields of interest**: Computer Vision, Mechatronics and Robotics, Multibody Dynamics Simulation
 
 Currently working on:
-- Implementing the Deep SORT tracker. I have already implemented SORT.
+- Implementation the Deep SORT tracker.
 - Monocular Visual Odometry, Epipolar geometry.
 
 
