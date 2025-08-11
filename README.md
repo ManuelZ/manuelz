@@ -1,10 +1,4 @@
-## Hi, my name is Manuel
-
-**Fields of interest**: Computer Vision, Mechatronics and Robotics, Multibody Dynamics Simulation
-
-Currently working on:
-- Implementation the Deep SORT tracker.
-- Monocular Visual Odometry, Epipolar geometry.
+## Hi, my name is Manuel, Computer Vision engineer
 
 
 ## Skills
