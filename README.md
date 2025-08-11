@@ -4,7 +4,7 @@
 ## Skills
 | Category   | Skills                                      |
 |------------|---------------------------------------------|
-| **Languages**       | Python, C++, JavaScript                 |
+| **Languages**       | Python, JavaScript                 |
 | **Computer Vision** | OpenCV, PyTorch, TensorFlow             |
 | **Robotics**        | ROS2, Webots, Exudyn                    |
 | **CAD**             | Solid Edge, Inventor, Alibre            |
