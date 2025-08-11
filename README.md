@@ -18,6 +18,7 @@
 
     Python implementation of the SORT tracking algorithm.
 
+  <img src="https://github.com/user-attachments/assets/c7a701b0-f338-45a2-a754-82f0dceec1e1" width="400"/>
 
 - [Kalman Filter](https://github.com/ManuelZ/Kalman-Filter)
 
