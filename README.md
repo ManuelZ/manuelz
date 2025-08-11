@@ -12,7 +12,7 @@
 | **Cloud**           | AWS, Azure                              |
 
 
-## Computer vision projects
+## Personal Computer Vision projects
 
 - [SORT Tracker](https://github.com/ManuelZ/sort-tracker)
 
