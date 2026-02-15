@@ -14,6 +14,14 @@
 
 ## Personal Computer Vision projects
 
+- [Monocular Visual Odometry](https://github.com/ManuelZ/monocular-slam)
+
+    Monocular Visual Odometry, estimating camera motion and 3D structure from a single camera.
+
+  <a href="https://github.com/ManuelZ/monocular-slam">
+      <img src="https://github.com/user-attachments/assets/d2229633-51a5-4d30-9ba5-2acd1967552f" width="400"/>
+  </a>
+
 - [SORT Tracker](https://github.com/ManuelZ/sort-tracker)
 
     Python implementation of the SORT tracking algorithm.
