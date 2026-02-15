@@ -21,6 +21,8 @@
   <a href="https://github.com/ManuelZ/monocular-slam">
       <img src="https://github.com/user-attachments/assets/d2229633-51a5-4d30-9ba5-2acd1967552f" width="400"/>
   </a>
+  
+  ---
 
 - [SORT Tracker](https://github.com/ManuelZ/sort-tracker)
 
@@ -29,11 +31,14 @@
   <a href="https://github.com/ManuelZ/sort-tracker">
       <img src="https://github.com/user-attachments/assets/c7a701b0-f338-45a2-a754-82f0dceec1e1" width="400"/>
   </a>
-  
+
+---
 
 - [Kalman Filter](https://github.com/ManuelZ/Kalman-Filter)
 
     Python implementation of a Kalman Filter.
+
+---
 
 - [TV remote Automation](https://github.com/ManuelZ/tv_automation)
 
@@ -42,7 +47,8 @@
   <a href="https://github.com/ManuelZ/tv_automation">
       <img src="https://github.com/user-attachments/assets/28ae9f19-e71e-43fb-9d12-bf05d15a9e1b" width="400"/>
   </a>
-  ---
+
+---
 
 - [Document scanner simulation](https://github.com/ManuelZ/document_scanner_simulation)
 
@@ -51,7 +57,8 @@
   <a href="https://github.com/ManuelZ/document_scanner_simulation">
       <img src="https://github.com/user-attachments/assets/1c1308e4-77e7-4d59-8985-8125d455b3bf" width="400"/>
   </a>
-  ---
+
+---
 
 - [106K cards identification system](https://github.com/ManuelZ/cards-identification)
 
@@ -60,19 +67,20 @@
   <a href="https://github.com/ManuelZ/cards-identification">
     <img src="https://github.com/user-attachments/assets/0de32173-4b63-445c-84b1-8429890a1f60" width="400"/>
   </a>
-  ---
+
+---
 
 - [Semantic segmentation](https://github.com/ManuelZ/DLPT-semantic-segmentation)
 
     Semantic segmentation on images taken from drones to differentiate between 12 classes.
 
-  ---
+---
 
 - [Object detection](https://github.com/ManuelZ/DLPT-license-plate-detection)
 
     Object detection to localize license plates of cars.
 
-  ---
+---
 
 - [Classification](https://github.com/ManuelZ/DLPT-food-classification)
 
