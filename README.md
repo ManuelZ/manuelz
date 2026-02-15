@@ -40,16 +40,6 @@
 
 ---
 
-- [TV remote Automation](https://github.com/ManuelZ/tv_automation)
-
-    Automation of TV remote controls to assist older adults with button visibility and navigation.
-
-  <a href="https://github.com/ManuelZ/tv_automation">
-      <img src="https://github.com/user-attachments/assets/28ae9f19-e71e-43fb-9d12-bf05d15a9e1b" width="400"/>
-  </a>
-
----
-
 - [Document scanner simulation](https://github.com/ManuelZ/document_scanner_simulation)
 
     A document scanner application that converts images of rectangular documents into a top-down view with classical computer vision, tested in a robotics simulator.
@@ -66,6 +56,16 @@
 
   <a href="https://github.com/ManuelZ/cards-identification">
     <img src="https://github.com/user-attachments/assets/0de32173-4b63-445c-84b1-8429890a1f60" width="400"/>
+  </a>
+
+---
+
+- [TV remote Automation](https://github.com/ManuelZ/tv_automation)
+
+    Automation of TV remote controls to assist older adults with button visibility and navigation.
+
+  <a href="https://github.com/ManuelZ/tv_automation">
+      <img src="https://github.com/user-attachments/assets/28ae9f19-e71e-43fb-9d12-bf05d15a9e1b" width="400"/>
   </a>
 
 ---
