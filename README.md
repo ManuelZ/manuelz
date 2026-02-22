@@ -73,16 +73,3 @@
 - [Semantic segmentation](https://github.com/ManuelZ/DLPT-semantic-segmentation)
 
     Semantic segmentation on images taken from drones to differentiate between 12 classes.
-
----
-
-- [Object detection](https://github.com/ManuelZ/DLPT-license-plate-detection)
-
-    Object detection to localize license plates of cars.
-
----
-
-- [Classification](https://github.com/ManuelZ/DLPT-food-classification)
-
-    Image classification of 13 different Kenyan food types.
-
