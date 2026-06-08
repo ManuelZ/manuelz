@@ -2,14 +2,17 @@
 
 
 ## Skills
-| Category   | Skills                                      |
-|------------|---------------------------------------------|
-| **Languages**       | Python, JavaScript                 |
-| **Computer Vision** | OpenCV, PyTorch, TensorFlow             |
-| **Robotics**        | ROS2, Webots, Exudyn                    |
-| **CAD**             | Solid Edge, Inventor, Alibre            |
-| **Dev**             | Linux, Docker, Pytest, MyPy, Git        |
-| **Cloud**           | AWS, Azure                              |
+| Category | Tools | Skills |
+|----------|-------|--------|
+| **Programming**        | Python, C++                           | OOP, Multiprocessing |
+| **Classical Vision**   | OpenCV                                | Image Processing, Feature Extraction |
+| **3D Vision**          | Open3D                                | Camera Calibration, Multi-View Geometry, Bird's-eye View, Visual Odometry, Pose Estimation, Epipolar Geometry, Simulation |
+| **Deep Learning**      | PyTorch, YOLO                         | Object Detection, Tracking, Segmentation, Deep Metric Learning, Experiment Tracking |
+| **Model Optimization** | TensorRT, NVIDIA Nsight Systems       | Quantization, Inference Benchmarking, Latency Profiling |
+| **Data Pipeline**      | CVAT, FiftyOne                        | Data Curation, Deduplication, Model-assisted Verification |
+| **Embedded & Edge**    | Jetson Orin, Raspberry Pi             | Multi-stream Processing, Hardware-Accelerated Decoding |
+| **Development**        | Linux, Docker, Git, Pytest, MyPy      | Containerized Deployment, Unit Testing |
+| **Cloud**              | AWS, Azure, RunPod                    | Serverless Deployment, GPU Inference |
 
 
 ## Personal Computer Vision projects
